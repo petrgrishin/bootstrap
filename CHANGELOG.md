@@ -1,3 +1,9 @@
+## 2.3.3 (Jan 28, 2015)
+
+Bugfix release
+
+- fix infinite focus loop in modal
+
 ## 2.3.2 re-release (July 26, 2013)
 
 Patch to update jQuery in Bower and bump Recess to 1.1.9.
